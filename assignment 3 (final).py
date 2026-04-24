@@ -1,3 +1,7 @@
+"""in this piece of code, compared with the previous one (assign2), some coding logics and algorithms have been optimized,
+the naming convention of certain cmd functions has been improved, designing an editor that simulates vim editor."""
+
+
 import re
 
 lines = [""]   # all text lines; always at least one entry
